@@ -47,5 +47,9 @@ print( x >= y) # x greater than or equal to y
 print(x != y ) # x does not equal to y
 
 
+# how to combine two or more comparison operators in one line of code
+print(x > z | y < x)
+
+
 
 
